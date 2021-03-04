@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 <h3>contact me at</h3>
 
 <a href=""https://www.linkedin.com/in/ashutosh-goyal-989442150/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/linkedin.svg" height="30" width="30></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;<a href=https://www.facebook.com/ashutosh.goyal.5494 target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/facebook.svg" height="30" width="30"></a>
+<a href=https://www.facebook.com/ashutosh.goyal.5494 target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/facebook.svg" height="30" width="30"></a>
   
