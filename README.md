@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href=""https://www.linkedin.com/in/ashutosh-goyal-989442150/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/linkedin.svg" height="30" width="30></a>
-  &nsbp;&nsbp;&nsbp;&nsbp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
  
   
 <a href=https://www.facebook.com/ashutosh.goyal.5494 target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/facebook.svg" height="30" width="30"></a>
