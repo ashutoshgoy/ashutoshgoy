@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <h1 align="center",Hii I am Ashutosh Goyal 👋></h1>
  <ul>
- <li>Ask me about <string>Data structures and algorithms,Deep learning,c++,SQL,Database management system</string></li>
--<li> I’m currently learning <string>moongodb (no sql database)  and node js in depth</string></li>
+ <li>Ask me about <string>Data structures and algorithms,Deep learning,c++,SQL,Database management system,nodejs and mongodb</string></li>
+-<li> I’m currently learning <string>react js  and java</string></li>
 <li> How to reach me: <a href="https://www.linkedin.com/in/ashutosh-goyal-989442150/" target="_blank">Ashutosh Goyal</a></li>
 
 
