@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <h1 align="center",Hii I am Ashutosh Goyal 👋></h1>
  <ul>
- <li>I am currently working at<string> Sigmoid</string> as <string> Software Developer Engineer</string></li>
- <li>Ask me about <string>Data structures and algorithms,Python,C++,SQL,Node Js,Javascript,Airflow,Google cloud platform,Object oriented programming and Database Management System</string></li>
+ <li>I am currently working at<strong> Sigmoid</string> as <string> Software Developer Engineer</strong></li>
+ <li>Ask me about <strong>Data structures and algorithms,Python,C++,SQL,Node Js,Javascript,Airflow,Google cloud platform,Object oriented programming and Database Management System</strong></li>
  
--<li> I’m currently learning <string>react js  and java</string></li>
+ -<li> I’m currently learning <strong>Material Ui</strong></li>
 <li> How to reach me: <a href="https://www.linkedin.com/in/ashutosh-goyal-989442150/" target="_blank">Ashutosh Goyal</a></li>
 
 
