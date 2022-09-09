@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **SIGMOID**
 
-- 🌱 I’m currently learning **Material UI,React Hooks**
+- 🌱 I’m currently learning **Servlets,JSP and Low Level Design**
 
-- 💬 Ask me about **Data Structures and algorithms,Javascript,Python,Database Management System,SQL and NodeJS**
+- 💬 Ask me about **Data Structures and algorithms,Javascript,Java,Python,Database Management System,SQL and NodeJS**
 
 - 📫 How to reach me **ashutoshgoyal46@gmail.com**
 
