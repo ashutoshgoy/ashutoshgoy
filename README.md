@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Servlets,JSP and Low Level Design**
 
-- 💬 Ask me about **Data Structures and algorithms,,Java,Python,Database Management System,SQL ,Hadoop,Spark,Azure Databricks,Snowflake,Azure Synapse,GCP,AWS (S3,EC2)**
+- 💬 Ask me about **Data Structures and algorithms,,Java,Python,Database Management System,SQL ,Hadoop,Spark,Azure Databricks,Snowflake,Azure Synapse,GCP,AWS (S3,EC2,EMR,Step functions),dbt,Google bigquery,**
 
 - 📫 How to reach me **ashutoshgoyal46@gmail.com**
 
