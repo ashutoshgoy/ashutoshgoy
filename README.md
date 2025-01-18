@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **New Relic**
 
-- 🌱 I’m currently learning **Spring Boot ,Microservices architecture and High level Design**
+- 🌱 I’m currently learning **Spring Boot ,Microservices architecture,High level Design and Trino**
 
-- 💬 Ask me about **Data Structures and algorithms,,Java,Python,Database Management System,SQL ,Hadoop,Spark,Azure Databricks,Snowflake,Azure Synapse,Azure data factory,GCP,AWS (S3,EC2,EMR,Step functions),dbt and Google bigquery.**
+- 💬 Ask me about **Data Structures and algorithms,,Java,Python,Database Management System,SQL ,Hadoop,Spark,Azure Databricks,Snowflake,Azure Synapse,Azure data factory,GCP,AWS (S3,EC2,EMR,Step functions),dbt,Iceberg and Google bigquery.**
 
 - 📫 How to reach me **ashutoshgoyal46@gmail.com**
 
