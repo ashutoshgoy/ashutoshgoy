@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm ASHUTOSH GOYAL</h1>
 <h3 align="center">A passionate Software Developer Engineer</h3>
 
-- 🔭 I’m currently working on **New Relic**
+- 🔭 I’m currently as Data Engineer at **New Relic**
 
-- 🌱 I’m currently learning **Spring Boot ,Microservices architecture,High level Design and Trino**
+- 🌱 I’m currently learning **Flink,Trino,LangChain and LangGraph**
 
 - 💬 Ask me about **Data Structures and algorithms,,Java,Python,Database Management System,SQL ,Hadoop,Spark,Azure Databricks,Snowflake,Azure Synapse,Azure data factory,GCP,AWS (S3,EC2,EMR,Step functions),dbt,Iceberg and Google bigquery.**
 
